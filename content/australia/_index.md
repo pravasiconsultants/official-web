@@ -2,6 +2,7 @@
 title: Why Australia
 img: /assets/img/why-au.png
 layout: single
+descriptio: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
 #### Quality of Life in New Zealand

@@ -3,6 +3,7 @@ title: Business Categories
 icon: /assets/img/category/business.png
 img: /assets/img/business.png
 weight: 5
+description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
 ## Business Visa

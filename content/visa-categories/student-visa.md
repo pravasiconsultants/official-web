@@ -3,6 +3,7 @@ title: Student Visa
 icon: /assets/img/category/student.png
 img: /assets/img/stu-visa.png
 weight: 1
+description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
 #### Study Visa

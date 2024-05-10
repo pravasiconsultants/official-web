@@ -3,6 +3,7 @@ title: Skilled Migrant Category (Residence)
 icon: /assets/img/category/skill.png
 img: /assets/img/skill.png
 weight: 2
+description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
 The objective of the Skilled Migrant Category is to provide for the grant of residence to people who demonstrate that they have skills to fill identified shortages and opportunities in New Zealand. They are able to transfer those skills to New Zealand and link with local needs and opportunities and are able to demonstrate an ability to contribute to New Zealand both economically and socially. They are able to demonstrate an ability to successfully settle in New Zealand. The skilled migrant category is one of the ways to permanently live in New Zealand. The skilled migrant category is based on a points system. Points are claimed on the basis of qualifications, age, work experience, and job or job offer. Bonus points may be claimed on an individual basis. The minimum qualifying points are 100. To qualify under this category, the applicant must be aged from 20-55, having good health, character, and English language proficiency.

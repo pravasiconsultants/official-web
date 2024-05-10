@@ -3,9 +3,8 @@ title: 2021 Resident Visa
 icon: /assets/img/category/voc.png
 img: /assets/img/resident.png
 weight: 8
+description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
-
-
 
 If you are a work visa holder in New Zealand or a critical purpose visitor visa holder you may be eligible for residence under the new 2021 Resident Visa. Some critical purpose visa holders arriving in New Zealand between 30 September 2021 and 31 July 2022 on long term visas may also be eligible for the new visa.
 
@@ -31,7 +30,7 @@ You must have met the criteria on 29 September 2021 and on the date you submit y
 To be eligible you must:
 
 - have been in New Zealand on 29 September 2021, and
-- be on an eligible visa on 29 September 2021, or have an application submitted for an eligible visa on  29 September 2021 that was later granted.
+- be on an eligible visa on 29 September 2021, or have an application submitted for an eligible visa on 29 September 2021 that was later granted.
 
 You must also meet **one** of these three criteria:
 

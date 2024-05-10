@@ -2,6 +2,7 @@
 title: Australia Student Visa
 img: /assets/img/stu-visa.png
 layout: single
+description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
 #### Study Visa

@@ -3,6 +3,7 @@ title: Variation of Conditions (VOC)
 icon: /assets/img/category/voc.png
 img: /assets/img/voc.png
 weight: 9
+description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
 ### Student Visa Holders

@@ -1,6 +1,7 @@
 ---
 title: About Us
 img: /assets/img/about-us.png
+description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
 ## Who we are
@@ -22,8 +23,6 @@ Harminder Singh is an IAA licensed Immigration adviser, number 200902530 since N
 <p>
     Is your Immigration Adviser licensed by the New Zealand Government? Check here to find out <a href = "www.iaa.govt.nz" > www.iaa.got.nz</a> </p>
 </div>
-
-
 
 <div class = "col-md-4 text-center">
 <img src="/assets/img/NZAMI-Logo-April-2021-300x160.jpg" alt="Logo" class = "img-fluid" />

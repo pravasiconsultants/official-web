@@ -3,6 +3,7 @@ title: Family Categories
 icon: /assets/img/category/family.png
 img: /assets/img/family.png
 weight: 3
+description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
 If you and your family may wish to be reunited in New Zealand, you need to apply for a relationship visa. Your brother, sister or parent must be eligible to sponsor you. You must be in one of the following categories:
