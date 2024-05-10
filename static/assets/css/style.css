@@ -823,6 +823,10 @@ section {
 .testimonials .testimonial-item {
   text-align: center;
 }
+.bg {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+}
 
 .testimonials .testimonial-item .testimonial-img {
   width: 120px;
