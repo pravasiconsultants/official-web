@@ -13,14 +13,23 @@ Harminder Singh is an IAA licensed Immigration adviser, number 200902530 since N
 
 {{< counter >}}
 
-{{< row class="align-items-center" >}}
+{{< row class="text-center" >}}
 
 <div class = "col-md-4">
 <img src="/assets/img/IAA-Trade-Mark_colour-150x150.jpg" alt="Logo" class = "img-fluid" />
+    <p>Harminder Singh</p>
+	<p>License Number: 200902530</p>
+<p>
+    Is your Immigration Adviser licensed by the New Zealand Government? Check here to find out <a href = "www.iaa.govt.nz" > www.iaa.got.nz</a> </p>
 </div>
 
-<div class = "col-md-4">
+
+<div class = "col-md-4 text-center">
 <img src="/assets/img/NZAMI-Logo-April-2021-300x160.jpg" alt="Logo" class = "img-fluid" />
+    <p>
+        Full Principal Member of New Zealand Association for Migration & Investment
+with "New Zealand Association for Migration & Investment" linked to <a href "nzami.co.nz" >nzami.co.nz</a>
+    </p>
 </div>
 
 <div class = "col-md-4">
