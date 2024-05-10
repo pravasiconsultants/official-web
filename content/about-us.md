@@ -24,17 +24,21 @@ Harminder Singh is an IAA licensed Immigration adviser, number 200902530 since N
 </div>
 
 
+
 <div class = "col-md-4 text-center">
 <img src="/assets/img/NZAMI-Logo-April-2021-300x160.jpg" alt="Logo" class = "img-fluid" />
     <p>
-        Full Principal Member of New Zealand Association for Migration & Investment
-with "New Zealand Association for Migration & Investment" linked to <a href "nzami.co.nz" >nzami.co.nz</a>
+        <a href ="nzami.co.nz">Full Principal Member of New Zealand Association for Migration & Investment</a>
     </p>
 </div>
 
 <div class = "col-md-4">
-<img src="/assets/img/logo-only.png" alt="Logo" class = "img-fluid" />
+<img src="/assets/img/LogoLIAAMember.png" alt="Logo" class = "img-fluid" />
+    <p>
+        Member of the Licensed Immigration Adviser Association
+    </p>
 </div>
+
 {{< / row>}}
 
 #### Why NZ Asia Consultants
