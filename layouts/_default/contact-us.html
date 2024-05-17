@@ -28,17 +28,18 @@
             <div class="col-md-6 form-group">
               <input
                 type="text"
-                name="fname"
+                name="First Name"
                 class="form-control"
                 id="fname"
                 placeholder="First Name"
                 required
               />
             </div>
+
             <div class="col-md-6 form-group">
               <input
                 type="text"
-                name="lname"
+                name="Last Name"
                 class="form-control"
                 id="lname"
                 placeholder="Last Name"
@@ -51,7 +52,7 @@
               <input
                 type="email"
                 class="form-control"
-                name="email"
+                name="Email Address"
                 id="email"
                 placeholder="Your Email"
                 required
@@ -62,7 +63,7 @@
             <div class="col-md-6 form-group mt-3">
               <input
                 type="text"
-                name="phone"
+                name="Phone Number"
                 class="form-control"
                 id="phone"
                 placeholder="Phone Number"
@@ -77,7 +78,8 @@
                 <input
                   class="form-check-input"
                   type="checkbox"
-                  value=""
+                  value="Student Visa"
+                  name="Visa Category"
                   id="student"
                 />
                 <label class="form-check-label" for="student">
@@ -91,7 +93,8 @@
                 <input
                   class="form-check-input"
                   type="checkbox"
-                  value=""
+                  value="Skilled Migrant Category Residence"
+                  name="Visa Category"
                   id="skill"
                 />
                 <label class="form-check-label" for="skill">
@@ -104,7 +107,8 @@
                 <input
                   class="form-check-input"
                   type="checkbox"
-                  value=""
+                  value="Parents Category"
+                  name="Visa Category"
                   id="parent"
                 />
                 <label class="form-check-label" for="parent">
@@ -118,7 +122,8 @@
                 <input
                   class="form-check-input"
                   type="checkbox"
-                  value=""
+                  value="Spouse Work Visa"
+                  name="Visa Category"
                   id="spouse"
                 />
                 <label class="form-check-label" for="spouse">
@@ -130,7 +135,8 @@
                 <input
                   class="form-check-input"
                   type="checkbox"
-                  value=""
+                  value="Spouse Visitor Visa"
+                  name="Visa Category"
                   id="visit"
                 />
                 <label class="form-check-label" for="visit">
@@ -144,7 +150,8 @@
                 <input
                   class="form-check-input"
                   type="checkbox"
-                  value=""
+                  value="Visitor Visa"
+                  name="Visa Category"
                   id="visitor"
                 />
                 <label class="form-check-label" for="visitor">
@@ -157,7 +164,8 @@
                 <input
                   class="form-check-input"
                   type="checkbox"
-                  value=""
+                  value="Work Visa"
+                  name="Visa Category"
                   id="work"
                 />
                 <label class="form-check-label" for="work"> Work Visa </label>
@@ -169,7 +177,8 @@
                 <input
                   class="form-check-input"
                   type="checkbox"
-                  value=""
+                  value="Business Visa"
+                  name="Visa Category"
                   id="business"
                 />
                 <label class="form-check-label" for="business">
@@ -187,14 +196,15 @@
                 class="form-select"
                 aria-label="Default select example"
                 id="higher"
+                name="Highest Qualification"
               >
                 <option selected>N/A</option>
                 <option value="10th">10th</option>
                 <option value="12th">12th</option>
-                <option value="dip">Diploma</option>
-                <option value="bachelors">Bachelors</option>
-                <option value="masters">Masters</option>
-                <option value="others">Other</option>
+                <option value="Diploma">Diploma</option>
+                <option value="Bachelors">Bachelors</option>
+                <option value="Masters">Masters</option>
+                <option value="Others">Other</option>
               </select>
             </div>
 
@@ -205,18 +215,19 @@
                 class="form-select"
                 aria-label="Default select example"
                 id="ielts"
+                name="ILETS Overall Score"
               >
                 <option selected>N/A</option>
-                <option value="45">4.5</option>
-                <option value="50">5.0</option>
-                <option value="55">5.5</option>
-                <option value="60">6.0</option>
-                <option value="65">6.5</option>
-                <option value="70">7.0</option>
-                <option value="75">7.5</option>
-                <option value="80">8.0</option>
-                <option value="85">8.5</option>
-                <option value="90">9.0</option>
+                <option value="4.5">4.5</option>
+                <option value="5.0">5.0</option>
+                <option value="5.5">5.5</option>
+                <option value="6.0">6.0</option>
+                <option value="6.5">6.5</option>
+                <option value="7.0">7.0</option>
+                <option value="7.5">7.5</option>
+                <option value="8.0">8.0</option>
+                <option value="8.5">8.5</option>
+                <option value="9.0">9.0</option>
               </select>
             </div>
 
@@ -227,15 +238,16 @@
                 class="form-select"
                 aria-label="Default select example"
                 id="PTE"
+                name="PTE"
               >
                 <option selected>N/A</option>
-                <option value="4350">43-50</option>
-                <option value="5058">50-58</option>
-                <option value="5865">58-65</option>
-                <option value="6573">65-73</option>
-                <option value="7379">73-79</option>
-                <option value="7983">79-83</option>
-                <option value="8386">83-86</option>
+                <option value="43-50">43-50</option>
+                <option value="50-58">50-58</option>
+                <option value="58-65">58-65</option>
+                <option value="65-73">65-73</option>
+                <option value="73-79">73-79</option>
+                <option value="79-83">79-83</option>
+                <option value="83-86">83-86</option>
                 <option value="86-90">86-90</option>
               </select>
             </div>
@@ -244,7 +256,7 @@
           <div class="form-group mt-3">
             <textarea
               class="form-control"
-              name="message"
+              name="Message"
               rows="7"
               placeholder="Any additional information"
               required

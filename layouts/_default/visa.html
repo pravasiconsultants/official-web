@@ -1,13 +1,14 @@
 {{define "main"}}
 <!-- ======= Hero Section ======= -->
 <section
-  id="innerhero"
-  class="d-flex justify-content-center align-items-center"
+  class="inner-hero d-flex justify-content-center align-items-end"
   style="background-image: url({{.Params.img}})"
 >
-  <div class="container d-flex justify-content-center">
-    <div class="row justify-content-center">
-      <h2>{{.Title}}</h2>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text text-center">
+        <h2>{{.Title}}</h2>
+      </div>
     </div>
   </div>
 </section>
@@ -35,5 +36,4 @@
 </section>
 
 <!-- ======= Cta Section ======= -->
-{{ partial "cta.html"}}
-{{end}}
+{{ partial "cta.html"}} {{end}}
