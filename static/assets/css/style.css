@@ -548,7 +548,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(to bottom, #e1e1e1 50%, black 50%);
+  background: #e1e1e1;
 }
 .cta .container {
   padding: 80px 0;
@@ -1022,10 +1022,16 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #000;
+  background: #e1e1e1;
   padding: 30px 0px;
   color: #fff;
   font-size: 14px;
+}
+
+#footer .container {
+  background-color: #000;
+  padding: 30px 0px;
+  border-radius: 30px;
 }
 
 #footer .copyright {
@@ -1036,7 +1042,7 @@ section {
 #footer .social {
   padding-top: 10px;
   text-align: center;
-  font-size: 22px;
+  font-size: 32px;
   color: #fff;
 }
 #footer .social i {
