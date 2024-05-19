@@ -660,7 +660,12 @@ section {
 # contact us
 --------------------------------------------------------------*/
 .contact {
-  padding: 60px 0px;
+  padding: 0px 0px 60px 0px;
+  background-color: #e1e1e1;
+}
+.contact .container {
+  background-color: #fff;
+  padding-bottom: 30px;
 }
 .contact .info-container {
   margin-left: 1rem;
