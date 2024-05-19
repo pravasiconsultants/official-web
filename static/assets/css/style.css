@@ -666,6 +666,7 @@ section {
 .contact .container {
   background-color: #fff;
   padding-bottom: 30px;
+  border-radius: 0px 0px 24px 24px;
 }
 .contact .info-container {
   margin-left: 1rem;
