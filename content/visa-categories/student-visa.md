@@ -6,37 +6,113 @@ weight: 1
 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
-#### Study Visa
+### Why Study in New Zealand?
 
-A student visa allows you to study full time in New Zealand. Students who are undertaking a course of 12 months or more are eligible to work for 20 hours per week and full time during Christmas Holidays. After graduating from a course that would qualify for points under the Skilled Migrant Category, students are eligible to apply for a Post Study Work Visa without an offer of employment. After this Post Study Work Visa it is possible to apply for an Essential Skills Work Visa (2-3 years) with an offer of employment relevant to their course/qualifications.
+New Zealand offers a world-class education system, innovative teaching methods, and a welcoming multicultural environment. Known for its high quality of life, safe cities, and stunning natural landscapes, New Zealand is a popular choice for international students.
 
-#### Free Study Guidance
+### Top Universities
 
-If you want to study in New Zealand, at primary, secondary or tertiary level, you will need a study visa. We may be able to assist to lodge a student visa application in your home country or when you are in New Zealand. The same is applicable for student visa extensions.
+- University of Auckland
+- University of Otago
+- Victoria University of Wellington
+- University of Canterbury
+- Massey University
 
-That is when you want to continue or finish your chosen study, we can assist you to lodge an application for an extension of your current valid visa. The NZ Asia staff, which is a team of professionals working under the supervision of a Licensed Immigration Adviser Mr. Harminder Singh, are guiding and counseling the students through the entire visa process. All the student visa process, as well as guidance, is free throughout our offices including Auckland.
 
-#### Spouse Visa
 
-Partners of students are eligible to apply for a (spouse work or spouse visitor) visa so that they can be together for the duration of the study. The type of visa is dependent on the type of study undertaken.
+### Popular Courses
 
-#### Dependent Child Visa
+- Business and Management
+- Information Technology
+- Engineering
+- Environmental Sciences
+- Health Sciences
 
-Dependent children of students are also eligible to apply for a dependent child student visa or dependent child visitor visa. The type of visa is dependent on the type of study undertaken by the parents.
 
-#### International PhD Students
 
-International students pay the domestic fees for a PhD in New Zealand and their dependent children are eligible to study as domestic students in New Zealand schools for the duration of the parent’s course of study.
+### Work Opportunities
 
-#### Top Ten Reasons To Study in New Zealand
+International students can work up to 20 hours per week during term time and full-time during scheduled breaks. Post-study work visas allow graduates to stay and work in New Zealand for up to three years, depending on their qualifications.
 
-1. Competitive tuition fee, overall study costs, and cost of living.
-2. Excellent study opportunities and support services for international students.
-3. International recognition of world-class qualifications.
-4. Domestic fee for international PhD students.
-5. Employability after study.
-6. One year open work permit after completion of study.
-7. Opportunity to apply for permanent residency under the skilled migrant category.
-8. A safe and peaceful atmosphere for international students.
-9. Friendly people and a stable democratic political atmosphere.
-10. Unlimited range of attractions and activities, located throughout New Zealand.
+
+
+### Costs
+
+- Undergraduate: NZ$22,000-32,000 per year
+- Postgraduate: NZ$26,000-37,000 per year
+- Living Expenses: Approx. NZ$15,000 per year
+
+
+
+### Application Process
+
+- Start applications 6-8 months before the intake (February/July).
+- Required documents include a resume, statement of purpose, academic transcripts, reference letters, passport, and language test scores (IELTS or TOEFL).
+
+
+
+### Visa Requirements
+
+- Offer of Place from a New Zealand educational institution
+- Sufficient funds to cover tuition and living expenses
+- Health and character requirements
+- Proof of English language proficiency
+- Valid passport
+- Medical and travel insurance
+- 
+
+### Why Study in England?
+
+England is renowned for its prestigious universities, diverse range of courses, and rich cultural heritage. With institutions like Oxford, Cambridge, and Imperial College London, England offers a high-quality education, extensive research opportunities, and vibrant student life. The country is also known for its historical landmarks, multicultural cities, and welcoming environment for international students.
+
+### Top Universities
+
+- University of Oxford
+- University of Cambridge
+- Imperial College London
+- University College London (UCL)
+- London School of Economics and Political Science (LSE)
+
+
+
+### Popular Courses
+
+- Business and Management
+- Engineering
+- Information Technology
+- Medicine and Health Sciences
+- Arts and Humanities
+
+
+
+### Work Opportunities
+
+
+
+International students can work up to 20 hours per week during term time and full-time during vacations. The Graduate Route allows students to stay and work in the UK for up to two years (three years for PhD graduates) after completing their studies.
+
+### Costs
+
+
+
+- Undergraduate: £10,000-38,000 per year
+- Postgraduate: £11,000-32,000 per year
+- Living Expenses: Approx. £9,135-11,385 per year
+
+
+
+### Application Process
+
+- Start applications 6-12 months before the intake (September/October).
+- Required documents include a resume, statement of purpose, academic transcripts, reference letters, passport, and English language test scores (IELTS, TOEFL).
+
+
+
+### Visa Requirements
+
+- Confirmation of Acceptance for Studies (CAS) from a UK educational institution
+- Proof of sufficient funds to cover tuition and living costs
+- English language proficiency
+- Valid passport
+- Tuberculosis test (for certain countries)
+- Immigration Health Surcharge payment

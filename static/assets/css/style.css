@@ -607,7 +607,7 @@ section {
 .content article h5,
 .content article h6 {
   font-weight: 700;
-  margin-top: 1rem;
+  margin-top: 2rem;
   margin-bottom: 1rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
