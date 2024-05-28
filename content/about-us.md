@@ -1,7 +1,7 @@
 ---
 title: About Us
 img: /assets/img/about-us.png
-description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
+description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus.
 layout: about
 ---
 
