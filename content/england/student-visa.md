@@ -5,58 +5,75 @@ layout: single
 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
 ---
 
-### Why Study in Canada?
-
-Canada is known for its high-quality education, welcoming multicultural environment, and beautiful natural landscapes. It offers internationally recognized degrees, extensive research opportunities, and a high standard of living. Canadian universities and colleges are renowned for their commitment to academic excellence and innovation.
 
 
+#### Why Study in England?
 
-### Top Universities
+England is renowned for its prestigious universities, diverse range of courses, and rich cultural
+heritage. With institutions like Oxford, Cambridge, and Imperial College London, England offers a
+high-quality education, extensive research opportunities, and vibrant student life. The country is
+also known for its historical landmarks, multicultural cities, and welcoming environment for
+international students.
 
-1. University of Toronto
-2. University of British Columbia (UBC)
-3. McGill University
-4. University of Alberta
-5. University of Montreal
+#### Top Universities
 
+- University of Oxford
 
+- University of Cambridge
 
-### Popular Courses
+- Imperial College London
 
-1. Business and Management
-2. Engineering and Technology
-3. Health Sciences
-4. Computer Science
-5. Environmental Studies
+- University College London (UCL)
 
+- London School of Economics and Political Science (LSE)
 
+  
 
-### Work Opportunities
+#### Popular Courses
 
-International students can work up to 20 hours per week during term time and full-time during scheduled breaks. Post-graduation work permits allow graduates to stay and work in Canada for up to three years, depending on the duration of their studies.
+* Business and Management
 
+* Engineering
 
+* Information Technology
 
-### Costs
+* Medicine and Health Sciences
 
-- Undergraduate: CAD $15,000-30,000 per year
-- Postgraduate: CAD $10,000-25,000 per year
-- Living Expenses: Approx. CAD $10,000-12,000 per year
+* Arts and Humanities
 
+  
 
-
-### Application Process
-
-- Start applications 6-12 months before the intake (September/January).
-- Required documents include a resume, statement of purpose, academic transcripts, reference letters, passport, and English/French language test scores (IELTS, TOEFL).
+#### Work Opportunities
 
 
 
-### Visa Requirements
+International students can work up to 20 hours per week during term time and full-time during
+vacations. The Graduate Route allows students to stay and work in the UK for up to two years
+(three years for PhD graduates) after completing their studies.
 
-- Letter of acceptance from a Canadian educational institution
-- Proof of sufficient funds for tuition and living expenses
-- Valid passport
-- Medical examination (if required)
-- Police clearance certificate
-- Study permit application form and biometric photos
+#### Costs
+
+- Undergraduate: £10,000-38,000 per year
+
+- Postgraduate: £11,000-32,000 per year
+
+- Living Expenses: Approx. £9,135-11,385 per year
+
+  
+
+#### Application Process
+
+* Start applications 6-12 months before the intake (September/October).
+* Required documents include a resume, statement of purpose, academic transcripts, reference
+
+letters, passport, and English language test scores (IELTS, TOEFL).
+
+#### Visa Requirements
+
+* Confirmation of Acceptance for Studies 
+* (CAS) from a UK educational institution
+* Proof of sufficient funds to cover tuition and living costs
+* English language proficiency
+* Valid passport
+* Tuberculosis test (for certain countries)
+* Immigration Health Surcharge payment

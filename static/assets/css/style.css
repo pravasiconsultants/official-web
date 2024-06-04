@@ -611,7 +611,8 @@ section {
   margin-bottom: 1rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
-.content article p {
+.content article p,
+.content article ul li {
   color: rgba(0, 0, 0, 0.6);
 }
 .content article img {
