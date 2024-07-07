@@ -2,13 +2,13 @@
 title: German Student Visa
 img: /assets/img/stu-visa.png
 layout: single
-description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
+description: Information about student visa for Germany
 ---
 
 {{< rows  >}}
 {{< col  >}}
 
-## Why Study in Germany?
+#### Why Study in Germany?
 
 Germany is known for its high-quality education, innovative research opportunities, and affordable
 tuition fees. With a strong focus on practical and theoretical learning, German universities are
@@ -28,9 +28,8 @@ field of study.
 
 #### Application Process
 
-- Start applications 6-12 months before the intake (October/April).
-- Required documents include a resume, statement of purpose, academic transcripts, reference letters, passport, and proof of English or German language proficiency (IELTS, TOEFL,
-TestDaF).
+- Start applications 6-12 months before the intake.
+- Required documents include a resume, statement of purpose, academic transcripts, reference letters, passport, and proof of English or German language proficiency (IELTS, TOEFL, TestDaF).
 
 #### Visa Requirements
 

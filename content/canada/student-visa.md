@@ -2,14 +2,14 @@
 title: Canada Student Visa
 img: /assets/img/stu-visa.png
 layout: single
-description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
+description: Information about student visa for Canada
 ---
 
 {{< rows  >}}
 
 {{< col  >}}
 
-## Why Study in Canada?
+#### Why Study in Canada?
 
 Canada is known for its high-quality education, welcoming multicultural environment, and
 beautiful natural landscapes. It offers internationally recognized degrees, extensive research

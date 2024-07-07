@@ -8,7 +8,7 @@ description: Information about student visa for Australia
 {{< rows  >}}
 {{< col  >}}
 
-## Why Study in Australia?
+#### Why Study in Australia?
 
 Australia is a leading international student destination, known for its high-quality education system, innovative research, and multicultural environment. It offers over 22,000 courses across 1,100 institutions, with seven Australian cities ranked among the world's top 100 student cities. The country provides ample scholarships, work opportunities during and after studies, and a safe, high-standard living environment.
 

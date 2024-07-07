@@ -2,7 +2,7 @@
 title: England Student Visa
 img: /assets/img/stu-visa.png
 layout: single
-description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
+description: Information about student visa for England
 ---
 
 {{< rows >}}
@@ -30,7 +30,7 @@ vacations. The Graduate Route allows students to stay and work in the UK for up 
 
 #### Application Process
 
-- Start applications 6-12 months before the intake (September/October).
+- Start applications 6-12 months before the intake.
 - Required documents include a resume, statement of purpose, academic transcripts, reference letters, passport, and English language test scores (IELTS, TOEFL).
 
 #### Visa Requirements
