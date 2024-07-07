@@ -28,7 +28,7 @@ Harminder Singh is an IAA licensed Immigration adviser, number 200902530 since N
 <div class = "col-md-4 text-center">
 <img src="/assets/img/NZAMI-Logo-April-2021-300x160.jpg" alt="Logo" class = "img-fluid" />
     <p>
-        Full Principal Member of <a href ="https://nzami.co.nz">New Zealand Association for Migration & Investment</a>
+        Full Principal Member of <a href ="https://nzami.co.nz/PersonProfile?Action=View&PersonProfile_id=517">New Zealand Association for Migration & Investment</a>
     </p>
 </div>
 
