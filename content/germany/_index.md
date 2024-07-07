@@ -1,5 +1,5 @@
 ---
-title: Why Germany
+title: Germany
 img: /assets/img/why-ge.png
 layout: single
 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quasi similique totam, molestias necessitatibus rem dignissimos reprehenderit facilis laborum qui.
