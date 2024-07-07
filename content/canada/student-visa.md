@@ -25,17 +25,13 @@ to three years, depending on the duration of their studies.
 #### Costs
 
 - Undergraduate: CAD $15,000-30,000 per year
-
 - Postgraduate: CAD $10,000-25,000 per year
-
 - Living Expenses: Approx. CAD $10,000-12,000 per year
 
 #### Application Process
 
 - Start applications 6-12 months before the intake (September/January).
-- Required documents include a resume, statement of purpose, academic transcripts, reference
-
-letters, passport, and English/French language test scores (IELTS, TOEFL).
+- Required documents include a resume, statement of purpose, academic transcripts, reference letters, passport, and English/French language test scores (IELTS, TOEFL).
 
 #### Visa Requirements
 
@@ -53,25 +49,17 @@ letters, passport, and English/French language test scores (IELTS, TOEFL).
 #### Top Universities
 
 - University of Toronto
-
 - University of British Columbia (UBC)
-
 - McGill University
-
 - University of Alberta
-
 - University of Montreal
 
 #### Popular Courses
 
 - Business and Management
-
 - Engineering and Technology
-
 - Health Sciences
-
 - Computer Science
-
 - Environmental Studies
 
 

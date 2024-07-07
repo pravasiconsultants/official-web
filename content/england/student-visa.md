@@ -25,17 +25,13 @@ vacations. The Graduate Route allows students to stay and work in the UK for up 
 #### Costs
 
 - Undergraduate: £10,000-38,000 per year
-
 - Postgraduate: £11,000-32,000 per year
-
 - Living Expenses: Approx. £9,135-11,385 per year
 
 #### Application Process
 
 - Start applications 6-12 months before the intake (September/October).
-- Required documents include a resume, statement of purpose, academic transcripts, reference
-
-letters, passport, and English language test scores (IELTS, TOEFL).
+- Required documents include a resume, statement of purpose, academic transcripts, reference letters, passport, and English language test scores (IELTS, TOEFL).
 
 #### Visa Requirements
 
@@ -47,32 +43,26 @@ letters, passport, and English language test scores (IELTS, TOEFL).
 - Tuberculosis test (for certain countries)
 - Immigration Health Surcharge payment
 
-  {{< /col  >}}
-  {{< col  >}}
+{{< /col  >}}
+{{< col  >}}
 
-  #### Top Universities
+#### Top Universities
 
 - University of Oxford
-
 - University of Cambridge
-
 - Imperial College London
-
 - University College London (UCL)
-
 - London School of Economics and Political Science (LSE)
 
 #### Popular Courses
 
 - Business and Management
-
 - Engineering
-
 - Information Technology
-
 - Medicine and Health Sciences
-
 - Arts and Humanities
-  ![](https://images.unsplash.com/photo-1718567234257-d5fd9ae5544d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-  {{< /col  >}}
-  {{< /rows  >}}
+
+![](https://images.unsplash.com/photo-1718567234257-d5fd9ae5544d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+{{< /col  >}}
+{{< /rows  >}}

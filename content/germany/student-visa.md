@@ -23,15 +23,13 @@ field of study.
 
 #### Costs
 
-- Tuition Fees: Many public universities offer free or low-cost tuition for international
-  students; private universities may charge higher fees.
-
+- Tuition Fees: Many public universities offer free or low-cost tuition for international students; private universities may charge higher fees.
 - Living Expenses: Approx. €10,200 per year
 
-- Start applications 6-12 months before the intake (October/April).
-- Required documents include a resume, statement of purpose, academic transcripts, reference
+#### Application Process
 
-letters, passport, and proof of English or German language proficiency (IELTS, TOEFL,
+- Start applications 6-12 months before the intake (October/April).
+- Required documents include a resume, statement of purpose, academic transcripts, reference letters, passport, and proof of English or German language proficiency (IELTS, TOEFL,
 TestDaF).
 
 #### Visa Requirements
@@ -43,8 +41,8 @@ TestDaF).
 - Valid passport
 - Visa application form and biometric photos
 
-  {{< /col  >}}
-  {{< col  >}}
+{{< /col  >}}
+{{< col  >}}
 
 #### Top Universities
 
@@ -57,14 +55,12 @@ TestDaF).
 #### Popular Courses
 
 - Engineering and Technology
-
 - Natural Sciences
-
 - Business and Management
-
 - Social Sciences
-
 - Medicine
-  ![](https://images.unsplash.com/photo-1718567234257-d5fd9ae5544d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-  {{< /col  >}}
-  {{< /rows  >}}
+
+![](https://images.unsplash.com/photo-1718567234257-d5fd9ae5544d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+{{< /col  >}}
+{{< /rows  >}}
